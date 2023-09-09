@@ -1,6 +1,6 @@
 //rebuild the database from scratch
 const https = require("https");
-const USER_ID = "601862665337380864"
+const USER_ID = ""
 
 const FIRST_LEAGUE_YEAR = 2020;
 
